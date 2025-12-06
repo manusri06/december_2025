@@ -1,0 +1,16 @@
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        freq = {}
+        for i in s:
+            if i not in freq:
+                freq[i] = 0
+            freq[i] += 1
+        for i in t:
+            if i in freq and freq[i] > 0:
+                freq[i] -= 1
+            else:
+                return False
+        for i in freq.values():
+            if i > 0 or i < 0:
+                return False
+        return True
