@@ -33,5 +33,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/manusri06/december_2025/tree/master/0520-detect-capital) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/manusri06/december_2025/tree/master/3120-count-the-number-of-special-characters-i) |
 <!---LeetCode Topics End-->
