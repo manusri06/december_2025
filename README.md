@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manusri06/december_2025/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/manusri06/december_2025/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2514-count-anagrams](https://github.com/manusri06/december_2025/tree/master/2514-count-anagrams) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/manusri06/december_2025/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/manusri06/december_2025/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sorting
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manusri06/december_2025/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2514-count-anagrams](https://github.com/manusri06/december_2025/tree/master/2514-count-anagrams) |
 ## Matrix
 |  |
 | ------- |
@@ -41,6 +43,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/manusri06/december_2025/tree/master/0709-to-lower-case) |
 | [2129-capitalize-the-title](https://github.com/manusri06/december_2025/tree/master/2129-capitalize-the-title) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/manusri06/december_2025/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2514-count-anagrams](https://github.com/manusri06/december_2025/tree/master/2514-count-anagrams) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/manusri06/december_2025/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/manusri06/december_2025/tree/master/3121-count-the-number-of-special-characters-ii) |
+## Math
+|  |
+| ------- |
+| [2514-count-anagrams](https://github.com/manusri06/december_2025/tree/master/2514-count-anagrams) |
+## Combinatorics
+|  |
+| ------- |
+| [2514-count-anagrams](https://github.com/manusri06/december_2025/tree/master/2514-count-anagrams) |
 <!---LeetCode Topics End-->
