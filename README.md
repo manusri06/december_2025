@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/manusri06/december_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manusri06/december_2025/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/manusri06/december_2025/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2514-count-anagrams](https://github.com/manusri06/december_2025/tree/master/2514-count-anagrams) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/manusri06/december_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manusri06/december_2025/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2514-count-anagrams](https://github.com/manusri06/december_2025/tree/master/2514-count-anagrams) |
 ## Matrix
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/manusri06/december_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/manusri06/december_2025/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/manusri06/december_2025/tree/master/0709-to-lower-case) |
 | [2129-capitalize-the-title](https://github.com/manusri06/december_2025/tree/master/2129-capitalize-the-title) |
@@ -54,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2514-count-anagrams](https://github.com/manusri06/december_2025/tree/master/2514-count-anagrams) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/manusri06/december_2025/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
