@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/manusri06/december_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/manusri06/december_2025/tree/master/0520-detect-capital) |
+| [0686-repeated-string-match](https://github.com/manusri06/december_2025/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/manusri06/december_2025/tree/master/0709-to-lower-case) |
 | [2129-capitalize-the-title](https://github.com/manusri06/december_2025/tree/master/2129-capitalize-the-title) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/manusri06/december_2025/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/manusri06/december_2025/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/manusri06/december_2025/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
