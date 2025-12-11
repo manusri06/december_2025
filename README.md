@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manusri06/december_2025/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/manusri06/december_2025/tree/master/0485-max-consecutive-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manusri06/december_2025/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/manusri06/december_2025/tree/master/1470-shuffle-the-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manusri06/december_2025/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/manusri06/december_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manusri06/december_2025/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/manusri06/december_2025/tree/master/2273-find-resultant-array-after-removing-anagrams) |
