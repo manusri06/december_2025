@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manusri06/december_2025/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/manusri06/december_2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/manusri06/december_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manusri06/december_2025/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/manusri06/december_2025/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/manusri06/december_2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/manusri06/december_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/manusri06/december_2025/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/manusri06/december_2025/tree/master/0686-repeated-string-match) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/manusri06/december_2025/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/manusri06/december_2025/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/manusri06/december_2025/tree/master/1757-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/manusri06/december_2025/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
