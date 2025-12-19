@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/manusri06/december_2025/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/manusri06/december_2025/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/manusri06/december_2025/tree/master/0014-longest-common-prefix) |
 | [0485-max-consecutive-ones](https://github.com/manusri06/december_2025/tree/master/0485-max-consecutive-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manusri06/december_2025/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/manusri06/december_2025/tree/master/1470-shuffle-the-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manusri06/december_2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/manusri06/december_2025/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/manusri06/december_2025/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/manusri06/december_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/manusri06/december_2025/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/manusri06/december_2025/tree/master/0686-repeated-string-match) |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manusri06/december_2025/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/manusri06/december_2025/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
