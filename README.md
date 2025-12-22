@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/manusri06/december_2025/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/manusri06/december_2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/manusri06/december_2025/tree/master/0014-longest-common-prefix) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manusri06/december_2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0485-max-consecutive-ones](https://github.com/manusri06/december_2025/tree/master/0485-max-consecutive-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manusri06/december_2025/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manusri06/december_2025/tree/master/1441-build-an-array-with-stack-operations) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/manusri06/december_2025/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/manusri06/december_2025/tree/master/0012-integer-to-roman) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manusri06/december_2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2514-count-anagrams](https://github.com/manusri06/december_2025/tree/master/2514-count-anagrams) |
 ## Combinatorics
 |  |
@@ -120,5 +122,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manusri06/december_2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manusri06/december_2025/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
