@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/manusri06/december_2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/manusri06/december_2025/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/manusri06/december_2025/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/manusri06/december_2025/tree/master/0054-spiral-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manusri06/december_2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0485-max-consecutive-ones](https://github.com/manusri06/december_2025/tree/master/0485-max-consecutive-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manusri06/december_2025/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/manusri06/december_2025/tree/master/0054-spiral-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manusri06/december_2025/tree/master/1441-build-an-array-with-stack-operations) |
 | [1920-build-array-from-permutation](https://github.com/manusri06/december_2025/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manusri06/december_2025/tree/master/1929-concatenation-of-array) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/manusri06/december_2025/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/manusri06/december_2025/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
