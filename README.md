@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/manusri06/december_2025/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/manusri06/december_2025/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/manusri06/december_2025/tree/master/0054-spiral-matrix) |
+| [0090-subsets-ii](https://github.com/manusri06/december_2025/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manusri06/december_2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0485-max-consecutive-ones](https://github.com/manusri06/december_2025/tree/master/0485-max-consecutive-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manusri06/december_2025/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/manusri06/december_2025/tree/master/0031-next-permutation) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/manusri06/december_2025/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/manusri06/december_2025/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
