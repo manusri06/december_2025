@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/manusri06/december_2025/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/manusri06/december_2025/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/manusri06/december_2025/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/manusri06/december_2025/tree/master/0071-simplify-path) |
 | [0387-first-unique-character-in-a-string](https://github.com/manusri06/december_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/manusri06/december_2025/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/manusri06/december_2025/tree/master/0686-repeated-string-match) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/manusri06/december_2025/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manusri06/december_2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manusri06/december_2025/tree/master/1441-build-an-array-with-stack-operations) |
 ## Two Pointers
