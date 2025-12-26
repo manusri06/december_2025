@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/manusri06/december_2025/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manusri06/december_2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/manusri06/december_2025/tree/master/0012-integer-to-roman) |
+| [0146-lru-cache](https://github.com/manusri06/december_2025/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/manusri06/december_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manusri06/december_2025/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/manusri06/december_2025/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manusri06/december_2025/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/manusri06/december_2025/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -147,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/manusri06/december_2025/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/manusri06/december_2025/tree/master/0090-subsets-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/manusri06/december_2025/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/manusri06/december_2025/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
