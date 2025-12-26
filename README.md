@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/manusri06/december_2025/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/manusri06/december_2025/tree/master/0012-integer-to-roman) |
+| [0089-gray-code](https://github.com/manusri06/december_2025/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manusri06/december_2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2514-count-anagrams](https://github.com/manusri06/december_2025/tree/master/2514-count-anagrams) |
 ## Combinatorics
@@ -137,9 +138,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/manusri06/december_2025/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/manusri06/december_2025/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/manusri06/december_2025/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/manusri06/december_2025/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
