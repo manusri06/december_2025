@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/manusri06/december_2025/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/manusri06/december_2025/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/manusri06/december_2025/tree/master/0071-simplify-path) |
+| [0227-basic-calculator-ii](https://github.com/manusri06/december_2025/tree/master/0227-basic-calculator-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/manusri06/december_2025/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/manusri06/december_2025/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/manusri06/december_2025/tree/master/0520-detect-capital) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/manusri06/december_2025/tree/master/0012-integer-to-roman) |
 | [0089-gray-code](https://github.com/manusri06/december_2025/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manusri06/december_2025/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/manusri06/december_2025/tree/master/0227-basic-calculator-ii) |
 | [2514-count-anagrams](https://github.com/manusri06/december_2025/tree/master/2514-count-anagrams) |
 ## Combinatorics
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/manusri06/december_2025/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manusri06/december_2025/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/manusri06/december_2025/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/manusri06/december_2025/tree/master/0394-decode-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manusri06/december_2025/tree/master/1441-build-an-array-with-stack-operations) |
 ## Two Pointers
