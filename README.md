@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/manusri06/december_2025/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/manusri06/december_2025/tree/master/0071-simplify-path) |
 | [0387-first-unique-character-in-a-string](https://github.com/manusri06/december_2025/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/manusri06/december_2025/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/manusri06/december_2025/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/manusri06/december_2025/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/manusri06/december_2025/tree/master/0709-to-lower-case) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/manusri06/december_2025/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/manusri06/december_2025/tree/master/0394-decode-string) |
 ## Database
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/manusri06/december_2025/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manusri06/december_2025/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/manusri06/december_2025/tree/master/0394-decode-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manusri06/december_2025/tree/master/1441-build-an-array-with-stack-operations) |
 ## Two Pointers
 |  |
